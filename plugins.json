@@ -7,7 +7,7 @@
     "type": "plugin",
     "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_cs.zip",
     "dependencies": []
-  }
+  },
   {
     "name": "astrbot_plugin_yscd",
     "desc": "查询原神兑换码",
