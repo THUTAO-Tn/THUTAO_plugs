@@ -9,12 +9,12 @@
     "dependencies": []
   }
   {
-    "name": "1111",
-    "desc": "通过上传图片来识别动漫",
+    "name": "astrbot_plugin_yscd",
+    "desc": "查询原神兑换码",
     "author": "桃薰",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "type": "plugin",
-    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_cs.zip",
+    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_yscd.zip",
     "dependencies": []
   }
 ]
