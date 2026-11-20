@@ -1,6 +1,6 @@
 [
   {
-    "name": "cs",
+    "name": "astrbot_plugin_cs",
     "desc": "通过长传图片来识别动漫",
     "author": "桃薰",
     "version": "1.0.0",
