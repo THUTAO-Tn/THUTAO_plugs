@@ -8,4 +8,13 @@
     "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_cs.zip",
     "dependencies": []
   }
+  {
+    "name": "1111",
+    "desc": "通过上传图片来识别动漫",
+    "author": "桃薰",
+    "version": "1.0.2",
+    "type": "plugin",
+    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_cs.zip",
+    "dependencies": []
+  }
 ]
