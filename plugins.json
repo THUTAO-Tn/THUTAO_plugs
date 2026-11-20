@@ -5,7 +5,7 @@
     "author": "桃薰",
     "version": "1.0.2",
     "type": "plugin",
-    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_cs.zip",
+    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugs@main/astrbot_plugin_cs.zip",
     "dependencies": []
   },
   {
@@ -14,7 +14,7 @@
     "author": "桃薰",
     "version": "1.0.0",
     "type": "plugin",
-    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugis@main/astrbot_plugin_yscd.zip",
+    "url": "https://cdn.jsdelivr.net/gh/THUTAO-Tn/THUTAO_plugs@main/astrbot_plugin_yscd.zip",
     "dependencies": []
   }
 ]
